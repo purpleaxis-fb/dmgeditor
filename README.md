@@ -42,7 +42,7 @@ A visual editor for creating macOS DMG (Disk Image) files. Design professional D
 ### Development Environment Setup
 ```bash
 # Clone the repository
-git clone https://github.com/xtxk/DMGEditor.git
+git clone https://github.com/purpleaxis-fb/DMGEditor.git
 cd DMGEditor
 
 # Open in Xcode

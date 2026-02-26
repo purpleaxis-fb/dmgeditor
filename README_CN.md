@@ -40,7 +40,7 @@
 ### 开发环境搭建
 ```bash
 # 克隆仓库
-git clone https://github.com/xtxk/DMGEditor.git
+git clone https://github.com/purpleaxis-fb/DMGEditor.git
 cd DMGEditor
 
 # 打开 Xcode 项目
